@@ -3,12 +3,12 @@ date-format
 ------
 
 
-Extend the Date object format.
+Extend the Date(prototype) object.
 
 ### Usage
 
 ```js
-var t = new Date('2015-5-21')
+var d = new Date('2015-5-21')
 ```
 
 format

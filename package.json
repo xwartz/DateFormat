@@ -1,0 +1,22 @@
+{
+  "name": "date-format",
+  "version": "0.0.1",
+  "description": "Extend the Date Object",
+  "main": "date-format.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xwartz/DateFormat.git"
+  },
+  "keywords": [
+    "date-format"
+  ],
+  "author": "xwartz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xwartz/DateFormat/issues"
+  },
+  "homepage": "https://github.com/xwartz/DateFormat#readme"
+}

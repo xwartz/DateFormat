@@ -1,0 +1,21 @@
+{
+  "name": "date-format",
+  "version": "0.0.1",
+  "homepage": "https://github.com/xwartz/DateFormat",
+  "authors": [
+    "xwartz"
+  ],
+  "description": "Extend the Date(prototype) object.",
+  "main": "date-format.js",
+  "keywords": [
+    "date-format"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
